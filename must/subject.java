@@ -1,3 +1,5 @@
+package must
+
 class subject{
 	String sub_name;
 	float grade;
